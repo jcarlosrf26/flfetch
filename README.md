@@ -1,6 +1,7 @@
+
 # flfetch
 
-El fetch de **FLinux**: sustituto de neofetch (descontinuado) con la ficha del sistema de siempre y, a diferencia de neofetch, **CPU, RAM y Swap en vivo estilo htop**: la pantalla queda abierta y las barras se mueven cada segundo.
+El fetch de **FLinux**: alternativa a Neofetch para FLinux (descontinuado) con la ficha del sistema de siempre y, a diferencia de neofetch, **CPU, RAM y Swap en vivo estilo htop**: la pantalla queda abierta y las barras se mueven cada segundo.
 
 Escrito en **C con ncurses**, en un solo fichero fuente y sin dependencias pesadas: el binario i386 ocupa **42 KB** y el programa consume **≈ 2,2 MB de RAM** — pensado para equipos modestos.
 
